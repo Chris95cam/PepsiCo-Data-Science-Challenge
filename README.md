@@ -18,7 +18,7 @@ scores as accurately as possible using relevant features or predictor variables.
 
 - [Pepsi.ipynb](https://github.com/Chris95cam/PepsiCo-Data-Science-Challenge/blob/main/Pepsi.ipynb): Python notebook containing the data processing, data exploration, and model
 building for this project.
-- [PepsiCo Data Science Challenge.pptx](https://github.com/Chris95cam/PepsiCo-Data-Science-Challenge/blob/main/PepsiCo%20Data%20Science%20Challenge.pptx): Powerpoint presentation 
+- [PepsiCoPresentation.pptx](https://github.com/Chris95cam/PepsiCo-Data-Science-Challenge/blob/main/PepsiCoPresentation.pptx): Powerpoint presentation 
 summarizing the results of this project. Was presented to a panel of judges during the competition.
 - [nyas-challenge-2020-data.xlsx](https://github.com/Chris95cam/PepsiCo-Data-Science-Challenge/blob/main/nyas-challenge-2020-data.xlsx): Excel file containing the dataset used for this project.
 - [ChristopherCammilleri.xlsx](https://github.com/Chris95cam/PepsiCo-Data-Science-Challenge/blob/main/ChristopherCammilleri.xlsx): Excel file containing my predictions for the competition's task.
